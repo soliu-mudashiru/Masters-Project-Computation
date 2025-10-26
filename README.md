@@ -1,2 +1,2 @@
 # Masters-Project-Computation
-This folder contains data analysis, geospatial modelling and computations using Python programming language that were done in my Master's thesis. 
+Find inside resources that I used during my Master's thesis period. I hope it helps enthusiastic geoscientists personate about computations  
